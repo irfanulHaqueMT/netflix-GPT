@@ -4,6 +4,7 @@ export const LOGO =
 export const USER_AVATAR =
   "https://avatars.githubusercontent.com/u/215673995?v=4";
 
+export const MOVIE_IMG = "https://image.tmdb.org/t/p/w500";
 export const API_OPTIONS = {
   method: "GET",
   headers: {

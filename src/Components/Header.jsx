@@ -16,6 +16,7 @@ const Header = () => {
       .then(() => {})
       .catch((error) => {
         // An error happened.
+        console.log(error);
         navigate("/error");
       });
   };
