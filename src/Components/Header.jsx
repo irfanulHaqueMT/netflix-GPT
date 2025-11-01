@@ -15,8 +15,7 @@ const Header = () => {
     signOut(auth)
       .then(() => {})
       .catch((error) => {
-        // An error happened.
-        console.log(error);
+        // An error happened
         navigate("/error");
       });
   };
@@ -48,7 +47,7 @@ const Header = () => {
       <img className="w-44" src={LOGO} alt="logo" />
       {user && (
         <div className="flex items-center">
-          <h3>{user?.displayName}</h3>
+          <h3 className="text-white">{user?.displayName}</h3>
           <img
             className="w-10 rounded-4xl ml-3"
             src={user?.photoURL}
