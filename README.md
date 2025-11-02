@@ -35,6 +35,9 @@
 - IMDB image CDN Url
 - Made the browse page amazing with tailwind css
 - usePopularMovie, useUpcomingMovies, useTopRatedMovies with custom Hook
+- GPT search Page
+- GPT search Bar
+- Mult-language feature in our App
 
 # features
 
