@@ -1,4 +1,4 @@
-# Netflix GPT
+# Netflix
 
 - create @latestVite app
 - configure TailwindCSS
