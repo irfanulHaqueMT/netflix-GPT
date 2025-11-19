@@ -49,6 +49,4 @@
   - Header
     -Main Movie - Tailer in Background - Title & description - Movie suggestions - Movie list \* N
 
-- NetflixGPT
-  - Search Bar
-  - Movie Suggestions
+
